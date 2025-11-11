@@ -2,8 +2,8 @@
 using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.EntityFrameworkCore;
-using TriStack.Data;
-using TriStack.Models;
+//using TriStack.Data;
+//using TriStack.Models;
 
 namespace TriStack.Services
 {
